@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Montserrat&display=swap');
+
+body{
+font-family: Montserrat;
+background-color:#f7f17e;
+color:#edad37;
+font-size:20px;
+}
+img{
+width:300px;
+border-radius: 50px;
+display:inline-block;
+text-align:center;
+border:10px white dashed
+}
+a{
+color:white;
+font-size:10px;
+margin:0px;
+}
+h1.logo{
+background-image: url(header.jpg);
+padding: 15px;
+margin-bottom:0px;
+font-family: Inconsolata;
+font-weight: bold;
+font-size:70px;
+line-height:70px;
+color:#FFA500;
+}
+h2{
+margin-top:0px;
+padding:10px;
+padding-top:2px;
+background-color: #fff199;
+margin-bottom:0px;
+color:#FFD700;
+}
+div.product-first{
+background-color:#fff199}
+body {
+  width: 1024px;
+}
+p.name{
+font-weight: bold;
+}
+div.product-section{
+display:inline-block;}
+
+div.about{
+font-weight:bold;
+}
+div{
+display:inline;
+text-align:center;}
+
+p.a{
+margin:0px;
+text-align: center;
+}
+
+div.product-first{
+display:inline-block;
+text-align:left;
+}
+div.product{
+display:inline-block;
+text-align:center;
+
+}
+div.product-last{
+display:inline-block;
+text-align:right;
+margin:30px;
+}
+div.about{
+display:inline-block;
+text-align:center;}
+
+div.location{
+display:block;
+text-align:center;
+}
